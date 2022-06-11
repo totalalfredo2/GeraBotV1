@@ -6,4 +6,4 @@ handler.help = ['unbanchat']
 handler.tags = ['group']
 handler.command = /^unbanchat$/i
 
-export default handler*/
+export default handler
