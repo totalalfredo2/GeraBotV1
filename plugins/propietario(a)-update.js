@@ -7,6 +7,7 @@ conn.reply(m.chat, stdout.toString(), m)
 handler.help = ['update']
 handler.tags = ['owner']
 handler.command = /^update|actualizar$/i 
-handler.rowner = true 
+handler.rowner = false 
+handler.admin = true 
 handler.exp = 500
 export default handler

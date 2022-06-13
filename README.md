@@ -56,8 +56,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/GataNina-Li/GataBot-MD
-> cd GataBot-MD
+> git clone https://github.com/totalalfredo2/GeraBotV1
+> cd GeraBotV1
 > npm install
 > yarn install 
 > npm install
@@ -70,7 +70,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GataBot-MD
+> cd GeraBotV1
 > npm start
 ```
 ----
@@ -79,7 +79,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GataBot-MD
+> cd GeraBotV1
 > rm -rf session.data.json
 > npm start
 ```

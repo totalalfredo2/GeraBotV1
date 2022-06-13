@@ -14,6 +14,7 @@ handler.help = ['restart']
 handler.tags = ['owner']
 handler.command = /^(reiniciar|res(tart)?)$/i
 handler.exp = 500
-handler.rowner = true
+handler.rowner = false
+handler.admin = true 
 
 export default handler

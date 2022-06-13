@@ -1,13 +1,13 @@
 let handler  = async (m, { conn, usedPrefix }) => {
-conn.sendHydrated(m.chat, `╭━━━━[ 𝙑𝙀𝙍𝘿𝘼𝘿 🤔 ]━━━━⬣\n*“${pickRandom(global.bucin)}”*\n╰━━━━━━[ ${vs} ]━━━━━⬣`, wm, null, md, '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
-['𝙊𝙩𝙧𝙖 𝙫𝙚𝙯🧐', `${usedPrefix}reto`],
+conn.sendHydrated(m.chat, `╭━━━━[ 🥵 VERDAD HOT😈  ]━━━━⬣\n*“${pickRandom(global.bucin)}”*\n╰━━━━━━[ ${vs} ]━━━━━⬣`, wm, null, md, 'GeraBotV1', null, null, [
+['𝙊𝙩𝙧𝙖 𝙫𝙚𝙯🧐', `${usedPrefix}retohot`],
 ['𝙏𝙤𝙥𝙨🏆', `${usedPrefix}top`],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́☘️', `${usedPrefix}menu`]
 ], m,)}
 
 handler.help = ['verdad']
 handler.tags = ['fun']
-handler.command = /^verdad/i
+handler.command = /^verdadhot|Preguntacaliente/i
 handler.fail = null
 export default handler
 
